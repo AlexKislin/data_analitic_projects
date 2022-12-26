@@ -48,7 +48,7 @@
 
 # Используемые библиотеки
 pandas, sqlalchemy
-
+# Дашборд и презентация доступны по ссылкам
 [Сылка на дашборд](https://public.tableau.com/app/profile/alexkiselev/viz/ProjectYandex_Practic/sheet4)
 
-[Ссылка на презентацию](https://disk.yandex.ru/i/Bgd23-KGZAbKYA)
+[Ссылка на презентацию]((https://disk.yandex.ru/i/mKJYI9LmTzM3HQ))

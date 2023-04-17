@@ -10,7 +10,7 @@
 Работа выполнена в Power BI. Можно посмотреть фотографии ниже или скачать файл.<br>
 
 # -------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/117819810/232426681-c9f23b37-2472-443b-916e-e9f9e1fb7f89.png)
+![image](https://user-images.githubusercontent.com/117819810/232427936-04ecf796-b0ce-4bd4-8615-8efd59cd921b.png)
 
 # -------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/117819810/232427034-d23f09ba-8a01-4cde-9e0b-3eb62ba5785d.png)
